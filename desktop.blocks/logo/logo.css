@@ -1,0 +1,19 @@
+.logo {
+    box-sizing: border-box;
+
+    width: 157px;
+
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    background-color: #ffd34e;
+
+    font-family: Accuratist;
+    font-size: 30px;
+    line-height: 0.83;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #242424;
+}

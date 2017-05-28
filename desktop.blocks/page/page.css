@@ -1,0 +1,13 @@
+.page {
+    margin: 0;
+    padding: 0;
+    background-color: #ededed;
+}
+
+.page__inner {
+    width: 1280px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}

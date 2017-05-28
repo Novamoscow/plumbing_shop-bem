@@ -1,0 +1,11 @@
+.slogan {
+    display: flex;
+
+    height: 329px;
+
+    padding-left: 50px;
+    padding-top: 40px;
+
+    background-image: linear-gradient(to right, #fed453, #ffe48f);
+    /*background: url("images/1.jpg");*/
+}
